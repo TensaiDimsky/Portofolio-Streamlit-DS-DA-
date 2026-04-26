@@ -38,7 +38,7 @@ st.title("🎓 Education")
 # bootcamp
 with st.expander("📊 Full Stack Data Analyst & Data Science Bootcamp", expanded=True):
     st.write("**Dibimbing.id | Jakarta**")
-    st.write("*Completed: April, 2025*")
+    st.write("*Completed: April, 2026*")
     
     col1, col2 = st.columns(2)
     with col1:
